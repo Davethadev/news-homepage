@@ -245,9 +245,21 @@ button:hover {
         width: 100%;
     }
 
+    .top-section-text p {
+        padding: 0.55rem 0 0.75rem;
+    }
+
+    .top-section .top-section-second-half .article {
+        padding: 1.5rem 0 0.5rem;
+    }
+
     .top-section-text div {
         width: 100%;
-    } 
+    }
+
+    .top-section-second-half {
+        margin-top: 1.5rem;
+    }
 
     .top-image {
         display: none;
