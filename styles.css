@@ -135,6 +135,7 @@ a {
 }
 
 button {
+<<<<<<< HEAD
     border: none;
     outline: none;
     padding: 0.75rem 1.8rem;
@@ -149,6 +150,14 @@ button:hover {
     background: hsl(240, 100%, 5%);
     color: hsl(36, 100%, 99%);
     cursor: pointer;
+=======
+    margin: 0.5rem 0;
+    padding: 0.25rem 0.75rem;
+    border: none;
+    background-color: #000;
+    color: white;
+    border-radius: 2px;
+>>>>>>> 4c053e1958fd2bfa36a124cc521d9d2be2077289
 }
 
 .bottom-section {
@@ -210,8 +219,12 @@ button:hover {
         position: absolute;
         top: 0;
         right: 0;
+<<<<<<< HEAD
         background: hsl(36, 100%, 99%);
         color: hsl(240, 100%, 5%);
+=======
+        background: black;
+>>>>>>> 4c053e1958fd2bfa36a124cc521d9d2be2077289
         opacity: 0;
         width: 70vw;
         height: 100vh;
@@ -226,6 +239,7 @@ button:hover {
 
     .icon_menu {
         display: block;
+        color: white;
     }
 
     .icon_menu_close {
